@@ -6,6 +6,9 @@
     "preview": "nuxi preview",
     "postinstall": "nuxi prepare"
   },
+  "dependencies": {
+    "modern-normalize": "^1.1.0"
+  },
   "devDependencies": {
     "@types/node": "^18.11.9",
     "nuxt": "3.0.0",
